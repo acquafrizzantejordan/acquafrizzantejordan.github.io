@@ -68,16 +68,15 @@ Nike Jordan Evolution
     <!-- Air Jordan 1 -->
     <div id="tab1" class="tab-content">
         <h2>Air Jordan 1</h2>
-        <https://img.buzzfeed.com/buzzfeed-static/complex/images/Y19jcm9wLGhfMTA2Myx3XzE4OTAseF82MSx5XzUzNA==/n2cea88ufnetdahec8jf/air-jordan-1-high-lost-and-found-dz5485-612-5.jpg?downsize=1840:*&output-format=auto&output-quality=auto
-> <!-- Placeholder image, replace with actual Jordan 1 image -->
-        <p>The Air Jordan 1 was first released in 1985. It was designed by Peter Moore and was the first signature shoe for Michael Jordan. It was published on the 1. April 1985 and took over the world rapidly. However did Michel Jordan himself complain about the shoe because it creased to slow. Therfore Micheal Jordan stated that the Air Jordan 1 doesn't perform well on court because it stops him from jumping correctly. Abother fact which is intresting about the Nike Air Jordan 1 is that it is indeed a very popular skateboarding shoe. </p>
+        <![air-jordan-1-high-lost-and-found-dz5485-612-5](https://github.com/acquafrizzantejordan/acquafrizzantejordan.github.io/assets/145576039/7e13b11c-178f-433c-b235-43b342004d16)> <!-- Placeholder image, replace with actual Jordan 1 image -->
+        <p>The Air Jordan 1 was first released in 1985. It was designed by Peter Moore and was the first signature shoe for Michael Jordan. It was published on the 1. April 1985 and took over the world rapidly. However did Michel Jordan himself complain about the shoe because it creased to slow. Therfore Micheal Jordan stated that the Air Jordan 1 doesn't perform well on court because it stops him from jumping correctly. Abother fact which is intresting about the Nike Air Jordan 1 is that it is indeed a very popular skateboarding shoe. The first Air Jordan 1 was released in the Chicago colourway which included the colours red, black and white. The following Jordan shoes were all released with these colours.</p>
     </div>
     
     <!-- Air Jordan 2 -->
     <div id="tab2" class="tab-content">
         <h2>Air Jordan 2</h2>
         <img src="jordan2.jpg" alt="Jordan 2 Image"> <!-- Placeholder image, replace with actual Jordan 2 image -->
-        <p>The Air Jordan 2 was released in 1986. It was designed by Bruce Kilgore and introduced luxurious design elements.</p>
+        <p>The Air Jordan 2 was released in 1986. It was designed by Bruce Kilgore and introduced luxurious design elements. The first game which Micheal Jordan Addented with the Air Jordan 2 was aigainst the New York Knicks in which he scored the legendary 50 points. This was a big advertisement for the Air Jordan 2 therefore he raised to a popular shoe again but nevertheless is the Air Jordan 2 a more or less unpopular shoe today you barely see them on the street.</p>
     </div>
 
     <!-- Repeat similar tab-content divs for Jordan 3 to Jordan 13 -->
