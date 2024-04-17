@@ -68,7 +68,7 @@ Nike Jordan Evolution
     <!-- Air Jordan 1 -->
     <div id="tab1" class="tab-content">
         <h2>Air Jordan 1</h2>
-        <img src="jordan1.jpg" alt="Jordan 1 Image"> <!-- Placeholder image, replace with actual Jordan 1 image -->
+        <![Image 1](https://github.com/acquafrizzantejordan/acquafrizzantejordan.github.io/assets/145576039/b159e4c6-e7a3-4b2d-a156-fb16a0d89a8b)> <!-- Placeholder image, replace with actual Jordan 1 image -->
         <p>The Air Jordan 1 was first released in 1985. It was designed by Peter Moore and was the first signature shoe for Michael Jordan. It was published on the 1. April 1985 and took over the world rapidly. However did Michel Jordan himself complain about the shoe because it creased to slow. Therfore Micheal Jordan stated that the Air Jordan 1 doesn't perform well on court because it stops him from jumping correctly. Abother fact which is intresting about the Nike Air Jordan 1 is that it is indeed a very popular skateboarding shoe. </p>
     </div>
     
