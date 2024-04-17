@@ -23,11 +23,21 @@ Nike Jordan Evolution
             margin-top: 20px;
         }
         .tab {
-            padding: 10px 20px;
+            padding: 10px; /* Adjusted padding */
             background-color: #f0f0f0;
             border: 1px solid #ccc;
             cursor: pointer;
             margin: 0 5px;
+            border-radius: 50%; /* Rounded shape */
+            width: 30px; /* Set width and height */
+            height: 30px; /* Set width and height */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .tab::after {
+            content: '\25B6'; /* Unicode for basketball symbol */
+            font-size: 20px; /* Adjusted font size */
         }
         .tab-content {
             display: none;
@@ -41,19 +51,19 @@ Nike Jordan Evolution
 <body>
     <div class="header">JORDAN</div> <!-- Changed "Jordan" to uppercase -->
     <div class="tabs">
-        <div class="tab" onclick="showTab(1)">Jordan 1</div>
-        <div class="tab" onclick="showTab(2)">Jordan 2</div>
-        <div class="tab" onclick="showTab(3)">Jordan 3</div>
-        <div class="tab" onclick="showTab(4)">Jordan 4</div>
-        <div class="tab" onclick="showTab(5)">Jordan 5</div>
-        <div class="tab" onclick="showTab(6)">Jordan 6</div>
-        <div class="tab" onclick="showTab(7)">Jordan 7</div>
-        <div class="tab" onclick="showTab(8)">Jordan 8</div>
-        <div class="tab" onclick="showTab(9)">Jordan 9</div>
-        <div class="tab" onclick="showTab(10)">Jordan 10</div>
-        <div class="tab" onclick="showTab(11)">Jordan 11</div>
-        <div class="tab" onclick="showTab(12)">Jordan 12</div>
-        <div class="tab" onclick="showTab(13)">Jordan 13</div>
+        <div class="tab" onclick="showTab(1)"></div> <!-- Empty div for basketball symbol -->
+        <div class="tab" onclick="showTab(2)"></div>
+        <div class="tab" onclick="showTab(3)"></div>
+        <div class="tab" onclick="showTab(4)"></div>
+        <div class="tab" onclick="showTab(5)"></div>
+        <div class="tab" onclick="showTab(6)"></div>
+        <div class="tab" onclick="showTab(7)"></div>
+        <div class="tab" onclick="showTab(8)"></div>
+        <div class="tab" onclick="showTab(9)"></div>
+        <div class="tab" onclick="showTab(10)"></div>
+        <div class="tab" onclick="showTab(11)"></div>
+        <div class="tab" onclick="showTab(12)"></div>
+        <div class="tab" onclick="showTab(13)"></div>
     </div>
     
     <!-- Jordan 1 -->
