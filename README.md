@@ -1,18 +1,21 @@
-Nike Jordan evulotion
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jordan Shoe Collection</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ahorni&display=swap">
     <style>
         body {
             font-family: Arial, sans-serif;
         }
         .header {
             text-align: center;
-            font-size: 36px;
+            font-size: 28px; /* Changed font size to 28px */
             margin-top: 20px;
+            font-family: 'Ahorni', sans-serif; /* Changed font family to Ahorni */
+            text-transform: uppercase; /* Ensures uppercase */
         }
         .tabs {
             display: flex;
@@ -36,7 +39,7 @@ Nike Jordan evulotion
     </style>
 </head>
 <body>
-    <div class="header">Jordan</div>
+    <div class="header">JORDAN</div> <!-- Changed "Jordan" to uppercase -->
     <div class="tabs">
         <div class="tab" onclick="showTab(1)">Jordan 1</div>
         <div class="tab" onclick="showTab(2)">Jordan 2</div>
