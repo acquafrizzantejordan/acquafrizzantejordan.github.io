@@ -24,8 +24,7 @@ Nike Jordan Evolution
         }
         .tab {
             padding: 10px; /* Adjusted padding */
-            background-color: #f0f0f0;
-            border: 1px solid #ccc;
+            border: 2px solid #000; /* Border for basketball outline */
             cursor: pointer;
             margin: 0 5px;
             border-radius: 50%; /* Rounded shape */
@@ -35,10 +34,6 @@ Nike Jordan Evolution
             justify-content: center;
             align-items: center;
         }
-        .tab::after {
-            content: '\25B6'; /* Unicode for basketball symbol */
-            font-size: 20px; /* Adjusted font size */
-        }
         .tab-content {
             display: none;
             margin-top: 20px;
@@ -46,12 +41,16 @@ Nike Jordan Evolution
         .tab-content.active {
             display: block;
         }
+        .tab-content img {
+            max-width: 100%; /* Ensure image fits within tab-content */
+            height: auto; /* Maintain aspect ratio */
+        }
     </style>
 </head>
 <body>
     <div class="header">JORDAN</div> <!-- Changed "Jordan" to uppercase -->
     <div class="tabs">
-        <div class="tab" onclick="showTab(1)"></div> <!-- Empty div for basketball symbol -->
+        <div class="tab" onclick="showTab(1)"></div> <!-- Empty div for basketball outline -->
         <div class="tab" onclick="showTab(2)"></div>
         <div class="tab" onclick="showTab(3)"></div>
         <div class="tab" onclick="showTab(4)"></div>
@@ -69,12 +68,14 @@ Nike Jordan Evolution
     <!-- Air Jordan 1 -->
     <div id="tab1" class="tab-content">
         <h2>Jordan 1</h2>
-        <p>The Air Jordan 1 was first released in 1985. It was designed by Peter Moore and was the first signature shoe for Michael Jordan. It was published on the 1. April 1985 and took over the world rapidly. However did Michel Jordan himself complain about the shoe because it creased to slow. Therfore Micheal Jordan stated that the Air Jordan 1 doesen't perform well on court because it stops him from jumping correctly.</p>
+        <img src="jordan1.jpg" alt="Jordan 1 Image"> <!-- Placeholder image, replace with actual Jordan 1 image -->
+        <p>The Air Jordan 1 was first released in 1985. It was designed by Peter Moore and was the first signature shoe for Michael Jordan.</p>
     </div>
     
     <!-- Jordan 2 -->
     <div id="tab2" class="tab-content">
         <h2>Jordan 2</h2>
+        <img src="jordan2.jpg" alt="Jordan 2 Image"> <!-- Placeholder image, replace with actual Jordan 2 image -->
         <p>The Air Jordan 2 was released in 1986. It was designed by Bruce Kilgore and introduced luxurious design elements.</p>
     </div>
 
