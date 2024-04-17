@@ -66,10 +66,10 @@ Nike Jordan Evolution
         <div class="tab" onclick="showTab(13)"></div>
     </div>
     
-    <!-- Jordan 1 -->
+    <!-- Air Jordan 1 -->
     <div id="tab1" class="tab-content">
         <h2>Jordan 1</h2>
-        <p>The Air Jordan 1 was first released in 1985. It was designed by Peter Moore and was the first signature shoe for Michael Jordan.</p>
+        <p>The Air Jordan 1 was first released in 1985. It was designed by Peter Moore and was the first signature shoe for Michael Jordan. It was published on the 1. April 1985 and took over the world rapidly. However did Michel Jordan himself complain about the shoe because it creased to slow. Therfore Micheal Jordan stated that the Air Jordan 1 doesen't perform well on court because it stops him from jumping correctly.</p>
     </div>
     
     <!-- Jordan 2 -->
